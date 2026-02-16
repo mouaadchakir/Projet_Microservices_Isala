@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\fsk\prj_rim\medical-record-service\src\main\java\com\hospital\medicalrecordservice\dto\MedicalRecordRequest.java
+C:\Users\hp\Desktop\fsk\prj_rim\medical-record-service\src\main\java\com\hospital\medicalrecordservice\model\MedicalRecord.java
+C:\Users\hp\Desktop\fsk\prj_rim\medical-record-service\src\main\java\com\hospital\medicalrecordservice\dto\MedicalRecordResponse.java
+C:\Users\hp\Desktop\fsk\prj_rim\medical-record-service\src\main\java\com\hospital\medicalrecordservice\feign\PatientDto.java
+C:\Users\hp\Desktop\fsk\prj_rim\medical-record-service\src\main\java\com\hospital\medicalrecordservice\repository\MedicalRecordRepository.java
+C:\Users\hp\Desktop\fsk\prj_rim\medical-record-service\src\main\java\com\hospital\medicalrecordservice\MedicalRecordServiceApplication.java
+C:\Users\hp\Desktop\fsk\prj_rim\medical-record-service\src\main\java\com\hospital\medicalrecordservice\service\MedicalRecordService.java
+C:\Users\hp\Desktop\fsk\prj_rim\medical-record-service\src\main\java\com\hospital\medicalrecordservice\service\impl\MedicalRecordServiceImpl.java
+C:\Users\hp\Desktop\fsk\prj_rim\medical-record-service\src\main\java\com\hospital\medicalrecordservice\feign\PatientClient.java
+C:\Users\hp\Desktop\fsk\prj_rim\medical-record-service\src\main\java\com\hospital\medicalrecordservice\controller\MedicalRecordController.java

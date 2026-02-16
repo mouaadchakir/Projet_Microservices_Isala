@@ -1,0 +1,15 @@
+com\hospital\appointmentservice\dto\AppointmentRequest.class
+com\hospital\appointmentservice\feign\PatientClient.class
+com\hospital\appointmentservice\dto\AppointmentResponse$PatientDto$PatientDtoBuilder.class
+com\hospital\appointmentservice\model\Appointment$AppointmentStatus.class
+com\hospital\appointmentservice\AppointmentServiceApplication.class
+com\hospital\appointmentservice\repository\AppointmentRepository.class
+com\hospital\appointmentservice\exception\AppointmentException.class
+com\hospital\appointmentservice\dto\AppointmentResponse$AppointmentResponseBuilder.class
+com\hospital\appointmentservice\service\AppointmentService.class
+com\hospital\appointmentservice\feign\PatientDto.class
+com\hospital\appointmentservice\model\Appointment.class
+com\hospital\appointmentservice\controller\AppointmentController.class
+com\hospital\appointmentservice\dto\AppointmentResponse.class
+com\hospital\appointmentservice\service\impl\AppointmentServiceImpl.class
+com\hospital\appointmentservice\dto\AppointmentResponse$PatientDto.class

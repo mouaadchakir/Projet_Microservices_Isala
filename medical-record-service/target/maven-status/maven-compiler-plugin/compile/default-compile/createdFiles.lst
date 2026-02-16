@@ -1,0 +1,10 @@
+com\hospital\medicalrecordservice\service\impl\MedicalRecordServiceImpl.class
+com\hospital\medicalrecordservice\dto\MedicalRecordRequest.class
+com\hospital\medicalrecordservice\repository\MedicalRecordRepository.class
+com\hospital\medicalrecordservice\dto\MedicalRecordResponse.class
+com\hospital\medicalrecordservice\feign\PatientDto.class
+com\hospital\medicalrecordservice\model\MedicalRecord.class
+com\hospital\medicalrecordservice\service\MedicalRecordService.class
+com\hospital\medicalrecordservice\MedicalRecordServiceApplication.class
+com\hospital\medicalrecordservice\controller\MedicalRecordController.class
+com\hospital\medicalrecordservice\feign\PatientClient.class
